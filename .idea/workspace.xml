@@ -34,8 +34,21 @@
       <recent name="C:\Users\User\IdeaProjects\pr1\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Second">
-    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TriangleTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls4.Main" />
+      <module name="pr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nebukina.ls4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls3.Second" />
       <module name="pr1" />
       <extension name="coverage">
@@ -61,9 +74,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nebukina.ls4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nebukina.ls4" />
+      <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls4.TriangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.AreaEqualsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nebukina.ls4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nebukina.ls4" />
+      <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls4.TriangleTest" />
+      <option name="METHOD_NAME" value="AreaEqualsTest(ru.nebukina.ls4.Triangle,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.TriangleExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nebukina.ls4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nebukina.ls4" />
+      <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls4.TriangleTest" />
+      <option name="METHOD_NAME" value="TriangleExceptionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Second" />
+        <item itemvalue="JUnit.TriangleTest" />
+        <item itemvalue="JUnit.TriangleTest.AreaEqualsTest" />
+        <item itemvalue="JUnit.TriangleTest.TriangleExceptionTest" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SeleniumStart" />
       </list>
     </recent_temporary>
