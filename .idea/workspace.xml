@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2da3764d-89c2-42dc-87e9-08d5d0d309fe" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D9iyX7N0hvoe8F2tSE9KJ9wsb3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\pr1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.KassirTest.actionEventCard">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls4.Main" />
+      <module name="pr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nebukina.ls4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls3.Second" />
+      <module name="pr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nebukina.ls3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KassirTest.actionEventCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nebukina.ls5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nebukina.ls5" />
+      <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls5.KassirTest" />
+      <option name="METHOD_NAME" value="actionEventCard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nebukina.ls4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nebukina.ls4" />
+      <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls4.TriangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.AreaEqualsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nebukina.ls4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nebukina.ls4" />
+      <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls4.TriangleTest" />
+      <option name="METHOD_NAME" value="AreaEqualsTest(ru.nebukina.ls4.Triangle,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.TriangleExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nebukina.ls4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.nebukina.ls4" />
+      <option name="MAIN_CLASS_NAME" value="ru.nebukina.ls4.TriangleTest" />
+      <option name="METHOD_NAME" value="TriangleExceptionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KassirTest.actionEventCard" />
+        <item itemvalue="JUnit.TriangleTest" />
+        <item itemvalue="JUnit.TriangleTest.AreaEqualsTest" />
+        <item itemvalue="JUnit.TriangleTest.TriangleExceptionTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2da3764d-89c2-42dc-87e9-08d5d0d309fe" name="Changes" comment="" />
+      <created>1660117958435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660117958435</updated>
+    </task>
+    <servers />
+  </component>
+</project>
